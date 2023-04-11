@@ -4,9 +4,21 @@
 
 # Hi there,I'm Mohamed 👋🧑‍💻
 
-## 🌐Connect with me :
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/ebeidoo)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/mohamed-ebeid-a726b6146/)
+
+## Let's Connect and have a Chat!💬🌐 :
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-ebeid-a726b6146/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://twitter.com/ebeid0o">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/ebeidoo/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+
+
 
 
 ## 🚀My Status :
