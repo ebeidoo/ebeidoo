@@ -39,7 +39,8 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/ebeidoo/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ebeidoo/ebeidoo/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/ebeidoo/ebeidoo/blob/output/github-contribution-grid-snake2.svg)
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
