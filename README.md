@@ -4,6 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/mohamed-ebeid-a726b6146/)
 
 ![ebeidoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebeidoo)
+ 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ebeidoo)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebeidoo&layout=compact)
-
