@@ -21,6 +21,9 @@
   <img height="150" img src= "https://media.tenor.com/D5QVYSPmpmAAAAAM/anime-keyboard-typing-keyboard-anime.gif">
 </p>
 
+<p align="center">
+  <img height="150" img src= "https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif">
+</p>
 ---
 
 
