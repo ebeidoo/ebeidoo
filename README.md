@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media.tenor.com/f6ccZeaCNagAAAAC/kobayashi-dragon.gif">
+  <img src= "https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif">
 </p>
 
 ---
