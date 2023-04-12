@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media.tenor.com/f6ccZeaCNagAAAAC/kobayashi-dragon.gif">
+  <img src= "https://media.tenor.com/D5QVYSPmpmAAAAAM/anime-keyboard-typing-keyboard-anime.gif">
 </p>
 
 ---
