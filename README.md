@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif">
+  <img src= "https://media.tenor.com/f6ccZeaCNagAAAAC/kobayashi-dragon.gif">
 </p>
 
 ---
