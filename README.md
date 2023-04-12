@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img height="100" img src= "https://media.tenor.com/D5QVYSPmpmAAAAAM/anime-keyboard-typing-keyboard-anime.gif">
+  <img height="200" img src= "https://media.tenor.com/D5QVYSPmpmAAAAAM/anime-keyboard-typing-keyboard-anime.gif">
 </p>
 
 ---
